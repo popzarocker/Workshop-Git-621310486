@@ -1,1 +1,3 @@
 Name: Pongsakorn Hansaneluk
+Weight (kg.): 58
+Height (cm.): 171
